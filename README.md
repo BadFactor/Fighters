@@ -6,6 +6,8 @@ Martial Art Simulation written in Rustlanguage
 + Create your own Martial Art Fighter
 + Different Gameplay Modes
   + COOP Mode
+    + Local
+    + Internet
   + Training Mode
   + Roleplay Elements, like XP Points
   
@@ -21,7 +23,7 @@ Martial Art Simulation written in Rustlanguage
     
 
 ## Usage of
- + Vulkan based graphics Engine
+ + Vulkan based Graphics Engine
  + Specs Entity system
  + and maybe more!
  
@@ -30,7 +32,7 @@ Martial Art Simulation written in Rustlanguage
 + Xbox Controller
 + Keyboard & Mice
 + Windows 7 to 10
-+ MacOX to MacOS
++ MacOSX to MacOS
 + Linux (Debian, Ubuntu)
 
 Minimum Hardware Suport
